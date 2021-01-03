@@ -5,8 +5,8 @@
      :target::before {
       content: "";
       display: block;
-      height: 20vh; /* fixed header height*/
-      margin: -20vh 0 0; /* negative fixed header height */
+      height: 25vh; /* fixed header height*/
+      margin: -25vh 0 0; /* negative fixed header height */
     }
     @media only screen and (min-width: 480px) {
     
